@@ -5,3 +5,4 @@
           c:function(){console.log("c");return{a:this.a,b:this.b}}
        }  
 })();
+a().b().c();
