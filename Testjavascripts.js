@@ -6,3 +6,12 @@
        }  
 })();
 a().b().c();
+
+var cat = {
+  lives: 9,
+  jumps:()=> {
+  	console.log(this);
+    this.lives--; 
+  }
+}
+cat.jumps();
