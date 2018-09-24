@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5E5B-F8A4
+
+ Directory of C:\Mirror\Githubdir\Test\Jenkinsfile
+
+25-Sep-18  03:51 AM    <DIR>          .
+25-Sep-18  03:51 AM    <DIR>          ..
+25-Sep-18  03:51 AM                 0 Test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  117,825,830,912 bytes free
